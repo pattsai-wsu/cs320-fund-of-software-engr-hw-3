@@ -1,4 +1,7 @@
-//NAME:
+//NAME: Patrick Tsai
+//Student ID: 011709316
+//Class: CS320 Fundamentals of Software Design - MW 10:30 am
+//Assignment: Homework 3 - Underscore Functional Programming
 //DUE: 10/12/2020 by Midnight
 
 function totalDegrees(data) {
