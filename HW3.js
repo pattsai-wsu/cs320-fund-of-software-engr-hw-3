@@ -3,6 +3,7 @@
 //Class: CS320 Fundamentals of Software Design - MW 10:30 am
 //Assignment: Homework 3 - Underscore Functional Programming
 //DUE: 10/12/2020 by Midnight
+//upload to github at end of semester
 
 function totalDegrees(data) {
     var awards = _.pluck(data, 'AWARDS');
